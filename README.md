@@ -2,8 +2,8 @@
 Criação de Elevadores
 
 # Requisitos
-SA-MP Server (0.3.7 é recomendável)
-Plugin Streamer (2.9.4 é recomendável)
+* SA-MP Server (0.3.7 é recomendável)
+* Plugin Streamer (2.9.4 é recomendável)
 
 # Funções
 - AddElevator - Criar (ou adicionar) um elevador (avá)
